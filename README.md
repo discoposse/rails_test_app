@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+This is a sample app as found in the https://www.railstutorial.org/book/toy_app site. Just being used as a little fun test area for Rails stuff.
